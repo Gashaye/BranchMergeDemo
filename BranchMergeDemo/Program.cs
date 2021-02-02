@@ -7,6 +7,8 @@ namespace BranchMergeDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Feature Change");
+
         }
     }
 }
